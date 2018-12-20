@@ -1,0 +1,12 @@
+{
+  "name": "npm-placeholder",
+  "version": "0.0.1",
+  "description": "This is a placeholder package to prevent name-squatting in the npm package registry.",
+  "author": "David Anson (https://dlaa.me/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidAnson/npm-placeholder.git"
+  },
+  "homepage": "https://github.com/DavidAnson/npm-placeholder#readme"
+}
